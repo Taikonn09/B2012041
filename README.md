@@ -20,7 +20,7 @@ facebook.com/Tainef.f
 ### 💰 Thanks for watching !
 
 ### 😃😃😃😃
- <h1> <img src="https://tophinhanh4k.com/wp-content/uploads/2022/01/1_hinh-anh-chibi-nam.jpg" width="100px"><br/></h1>
+<div style="display: flex"> <h1> <img src="https://tophinhanh4k.com/wp-content/uploads/2022/01/1_hinh-anh-chibi-nam.jpg" width="100px"><br/></h1>
  <h1> <img src="https://tophinhanh4k.com/wp-content/uploads/2022/01/4_hinh-anh-chibi-nam.jpg" width="100px"><br/></h1>
-
+</div>
 
