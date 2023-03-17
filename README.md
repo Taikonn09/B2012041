@@ -11,14 +11,14 @@
 # Features
 Hi vọng rằng file readme này trông hấp dẫn
 
-### 🌐 Add all Social Links
+### 🌐 Liên hệ với tôi qua facebook dưới đây
 facebook.com/Tainef.f
 
-### 💻 Show Your Tech Stack
-Select from over 300+ tech options and show your tech stack to everyone, Let them know what makes you awesome.
+### 💻 Hoặc qua zalo
+0988 000 697
 
-### 💰 Let people help you with Donations
+### 💰 Thanks for watching !
 
-### 😃 Fun Components
+### 😃😃😃😃
 
 
