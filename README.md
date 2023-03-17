@@ -1,8 +1,6 @@
 <div align="center">
- <h1> <img src="https://tophinhanh4k.com/wp-content/uploads/2022/01/hinh-anh-chibi-nam.jpg" width="100px"><br/>TaiKonn09</h1>
- <h1> <img src="https://tophinhanh4k.com/wp-content/uploads/2022/01/1_hinh-anh-chibi-nam.jpg" width="100px">
- <img src="https://tophinhanh4k.com/wp-content/uploads/2022/01/4_hinh-anh-chibi-nam.jpg" width="100px">
- 
+ <h1> <img src="https://tophinhanh4k.com/wp-content/uploads/2022/01/hinh-anh-chibi-nam.jpg" width="200px"><br/>TaiKonn09</h1>
+
 </div>
 <br/>
 
