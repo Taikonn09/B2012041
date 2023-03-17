@@ -1,8 +1,8 @@
 <div align="center">
  <h1> <img src="https://tophinhanh4k.com/wp-content/uploads/2022/01/hinh-anh-chibi-nam.jpg" width="100px"><br/>TaiKonn09</h1>
- <img src="https://img.shields.io/npm/v/npm?style=normal"/>
- <img src="https://img.shields.io/badge/License-GPL%20v3-brightgreen?style=normal"/>
- <img src="https://img.shields.io/github/languages/code-size/VishwaGauravIn/github-profile-readme-maker?logo=github&style=normal"/>
+ <h1> <img src="https://tophinhanh4k.com/wp-content/uploads/2022/01/1_hinh-anh-chibi-nam.jpg" width="100px">
+ <img src="https://tophinhanh4k.com/wp-content/uploads/2022/01/4_hinh-anh-chibi-nam.jpg" width="100px">
+ 
 </div>
 <br/>
 
@@ -20,7 +20,7 @@ facebook.com/Tainef.f
 ### 💰 Thanks for watching !
 
 ### 😃😃😃😃
-<div style="display: flex"> <h1> <img src="https://tophinhanh4k.com/wp-content/uploads/2022/01/1_hinh-anh-chibi-nam.jpg" width="100px"></h1>
- <h1> <img src="https://tophinhanh4k.com/wp-content/uploads/2022/01/4_hinh-anh-chibi-nam.jpg" width="100px"></h1>
+<div style="display: flex"> </h1>
+ <h1> </h1>
 </div>
 
